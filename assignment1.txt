@@ -1,0 +1,2 @@
+Update Order application of online shopping project.
+make sure you display the net amount in order page while processing the order.
